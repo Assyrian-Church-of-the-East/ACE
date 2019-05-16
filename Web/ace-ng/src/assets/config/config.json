@@ -1,0 +1,9 @@
+{
+    "env": {
+        "name": "Development"
+     },
+    "api": {
+        "acePort":"https://localhost:44342/", 
+        "onlyForTest": "https://localhost:8808/"
+    }
+}

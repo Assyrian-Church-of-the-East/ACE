@@ -1,0 +1,9 @@
+{
+    "env": {
+        "name": "test"
+     },
+    "api": {
+        "acePort":"https://garamoon.com:44342/", 
+        "other": "https://garamoon.com:localhost:8808/"
+    }
+}
